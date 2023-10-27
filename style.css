@@ -24,6 +24,17 @@ p {
 .text-white {
   color: white;
 }
+.container{
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+nav{
+  /* border: 2px solid yellow; */
+  display: flex;
+  justify-content: center;
+}
 
 nav,
 #credits {
